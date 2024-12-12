@@ -7,7 +7,5 @@ redirect_from:
   - /markdown.html
 ---
 
-Personal
----
 
 I am a novice pianist. I also love oil painting and baking. 
