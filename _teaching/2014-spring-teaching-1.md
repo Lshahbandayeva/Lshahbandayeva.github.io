@@ -8,8 +8,6 @@ venue: "ADA University, School of IT and Engineering"
 location: "Baku, Azerbaijan"
 ---
 
-Course Description 
-======
 
 This course offers an introduction to data science, focusing on fundamental concepts and
 practical skills in Python programming, data analysis, and machine learning. The course
@@ -19,7 +17,7 @@ unsupervised learning, and model evaluation. Students will also gain experience 
 data management 
 
 Learning objectives 
-======
+---
 
 Students are expected to understand, know and/or be capable of doing/applying/coding
 the following after this course:
